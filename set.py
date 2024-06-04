@@ -1,0 +1,26 @@
+#add()
+#update()
+#copy()
+#clear()
+#remove()
+#pop()
+#union()
+#intersection()
+#intersection_update()
+#difference()
+#difference_update()
+#symmetric_difference()
+#symmetric_difference_update()
+#isdisjoint()
+#issubset()
+#issuperset()
+#all()
+#any()
+#sorted()
+"""a=[1,1,2,2,2,3,5,7,7,5]
+b=set(a)
+sorted(b)
+print(b)"""
+#set comprehension
+b={s for s in [1,2,3,4] if s%2==0}
+print(b)
